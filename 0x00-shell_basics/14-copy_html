@@ -1,2 +1,2 @@
 #!/bin/bash
-cp type -f ".html" .
+cp -u *.html ..
